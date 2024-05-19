@@ -8,11 +8,18 @@ Features
       •	View account balances and transaction history.
 Getting Started
       1.	Prerequisites
+
+
+      
 Java Development Kit (JDK) 8 or higher
       •	Installation
       •	Clone the repository
           git clone https://github.com/VesaMex/banksystem
           cd banksystem
+
+
+
+          
           
 To start the Java console application for the bank system, follow these steps:
       -	Ensure you have Java Development Kit (JDK) installed.
