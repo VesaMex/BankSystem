@@ -1,11 +1,32 @@
 Introduction
+
+
+
+
         This is a simple console application for a bank system that allows users to manage multiple accounts and perform transactions such as deposits, withdrawals, and transfers.
+
+
+
+
+
+        
 Features
       •	Create new user accounts.
+
+      
       •	Deposit money into accounts.
+
+      
       •	Withdraw money from accounts.
+
+      
       •	Transfer money between accounts.
+
+      
       •	View account balances and transaction history.
+
+
+      
 Getting Started
       1.	Prerequisites
 
