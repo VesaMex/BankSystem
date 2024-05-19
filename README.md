@@ -3,7 +3,8 @@ Introduction
 
 
 
-        This is a simple console application for a bank system that allows users to manage multiple accounts and perform transactions such as deposits, withdrawals, and transfers.
+        This is a simple console application for a bank system that
+        allows users to manage multiple accounts and perform transactions such as deposits, withdrawals, and transfers.
 
 
 
@@ -76,5 +77,6 @@ Run the application.
 
     -	After compilation, run the application using the following command: java banksystem
     
+
 
                                                   If you need any information about my work, please feel to ask me at any time. Thank you!
